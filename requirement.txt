@@ -1,0 +1,7 @@
+gTTS
+playsound
+pytesseract
+Pillow
+pykakasi
+pynput
+pyperclip

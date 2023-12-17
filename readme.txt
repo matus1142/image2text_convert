@@ -1,0 +1,1 @@
+1.install tesseract OCR for convert image to text
